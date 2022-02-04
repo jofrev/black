@@ -38,6 +38,7 @@ SIMPLE_CASES: List[str] = [
     "fmtonoff2",
     "fmtonoff3",
     "fmtonoff4",
+    "fmtonoff5",
     "fmtskip",
     "fmtskip2",
     "fmtskip3",
